@@ -1,0 +1,17 @@
+<? xml version = "1.0" encoding = "UTF-8" ?>
+  <svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns: xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>delete button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <g id="delete-button">
+        <circle id="Oval" fill="#D8D8D8" cx="18.5" cy="18.5" r="18.5"></circle>
+        <g id="trashcan" transform="translate(11.000000, 11.000000)" stroke="#4A4A4A" stroke-linecap="square" stroke-width="2">
+          <path d="M2,4 L2.56005923,14.9975267 C2.58825441,15.5511774 3.05664963,16 3.62067742,16 L11.3793226,16 C11.9368907,16 12.4120989,15.544239 12.4399408,14.9975267 L13,4 L2,4 Z" id="Path-11"></path>
+          <path d="M0.5,3 L14.5,3" id="Path-6"></path>
+          <polyline id="Path-10" points="3.28684154 1.35022405 4.88684154 0 9.68684154 0 11.2868415 1.35022405"></polyline>
+        </g>
+      </g>
+    </g>
+  </svg>

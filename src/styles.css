@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul.pagination {
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  text-align: right;
+  line-height: 48px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+ul.pagination li {
+  display: inline-block;
+  padding: 0 1em;
+}
+ul.pagination li.active {
+  font-weight: bold;
+  border: 1px solid white;
+  border-radius: 50%;
+  line-height: 48px;
+}
+ul.pagination li.active a {
+  color: green;
+}
+ul.pagination a {
+  cursor: pointer;
+  color: grey;
+}
